@@ -1,4 +1,4 @@
-# Bài Tập Lớn: Trò Chơi Breakout với Tính Năng Mạng Sống
+# Bài Tập Lớn: BREAKOUT GAME
 ## Thông Tin Dự Án
 
 - Tên dự án: Breakout Game
@@ -165,5 +165,4 @@ Push và tạo pull request.
 
 - Tài liệu Pygame: pygame.org/docs
 - Hướng dẫn Python: python.org
-- Tài liệu môn học: [Thêm tài liệu môn học nếu có]
 
